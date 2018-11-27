@@ -1,6 +1,6 @@
 # Firecrack
 
-hack hundreds of facebook accounts random and wordlist random,
+hack hundreds of facebook accounts random and wordlist random,<br>
 more tools:<br>
 <br>firecrack fiture:<br>
 `1.hack facebook random attack`<br>
