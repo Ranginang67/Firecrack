@@ -2,9 +2,9 @@
 
 firecrack tools,<br>fiture:<br>
 `1.hack facebook random attack`
-2.bruteforce facebook<br>
-3.admin finder<br>
-4.bing dorking<br>
+`2.bruteforce facebook`
+`3.admin finder`
+`4.bing dorking`
 
 **Example:**
 ![1](https://github.com/Ranginang67/Firecrack/blob/master/img/1.png)
