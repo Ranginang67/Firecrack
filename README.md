@@ -18,6 +18,7 @@ firecrack tools,<br>fiture:<br>
 **bing dorking:**
 ![7](https://github.com/Ranginang67/Firecrack/blob/master/img/7.png)
 **how to install and usage:**
+
 **Termux:**
 * `pkg install python2`
 * `pip2 install mechanize`
