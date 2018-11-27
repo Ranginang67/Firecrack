@@ -1,8 +1,10 @@
 # Firecrack
 
-firecrack tools,<br>fiture:<br>
+hack hundreds of facebook accounts random and wordlist random,
+more tools:<br>
+<br>firecrack fiture:<br>
 `1.hack facebook random attack`<br>
-`2.bruteforce facebook`<br>
+`2.bruteforce facebook (one account)`<br>
 `3.admin finder`<br>
 `4.bing dorking`
 
