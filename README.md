@@ -1,6 +1,6 @@
 # Firecrack
 
-hack hundreds of facebook account with random account and wordlist random,<br>
+Firecrack is a tool for hacking hundreds of facebook accounts with random password lists and random accounts,<br>
 more tools:<br>
 <br>firecrack fiture:<br>
 `1.hack facebook random attack`<br>
