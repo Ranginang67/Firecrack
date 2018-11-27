@@ -41,3 +41,5 @@ firecrack tools,<br>fiture:<br>
 **NOTE:** before use this tool, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line
 
 **Thanks!**
+
+please [Subcribe](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) and support me ^_^
