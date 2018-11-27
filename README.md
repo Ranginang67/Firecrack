@@ -17,3 +17,23 @@ firecrack tools,<br>fiture:<br>
 ![6](https://github.com/Ranginang67/Firecrack/blob/master/img/6.png)
 **bing dorking:**
 ![7](https://github.com/Ranginang67/Firecrack/blob/master/img/7.png)
+**how to install and usage:**
+**Termux:**
+* `pkg install python2`
+* `pip2 install mechanize`
+* `pkg install git`
+* `git clone https://github.com/Ranginang67/Firecrack`
+* `cd Firecrack`
+* `python2 firecrack.py`
+* `help`
+
+**Linux:**
+* `apt-get install python`
+* `apt-get install python-pip`
+* `pip install mechanize`
+* `apt-get install git`
+* `git clone https://github.com/Ranginang67/Firecrack`
+* `cd Firecrack`
+* `python firecrack.py`
+* `help`
+
