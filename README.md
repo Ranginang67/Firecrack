@@ -21,6 +21,7 @@ more tools:<br>
 ![6](https://github.com/Ranginang67/Firecrack/blob/master/img/random_1.png)
 ![7](https://github.com/Ranginang67/Firecrack/blob/master/img/random_2.png)
 **deface file upload method:**
+![8](https://github.com/Ranginang67/Firecrack/blob/master/img/simplescreenrecorder-2018-11-30_21.22.25.mkv)
 
 **Termux:**
 * `pkg install python2`
