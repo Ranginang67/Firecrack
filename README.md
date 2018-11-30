@@ -1,6 +1,10 @@
 # Firecrack
 
-Firecrack is a tool for hacking hundreds of facebook accounts with random password lists and random accounts,<br>
+Whats is firecrack tools ?
+Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
+testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
+for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
+to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
 more tools:<br>
 <br>firecrack fiture:<br>
 `1.hack facebook random attack`<br>
