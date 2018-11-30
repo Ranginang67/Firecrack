@@ -6,8 +6,21 @@ more tools:<br>
 `1.hack facebook random attack`<br>
 `2.bruteforce facebook (one account)`<br>
 `3.admin finder`<br>
-`4.bing dorking`
+`4.bing dorking`<br>
 `5.deface file upload`
+
+**Screenshot:**
+![1](https://github.com/Ranginang67/Firecrack/blob/master/img/1.png)
+![2](https://github.com/Ranginang67/Firecrack/blob/master/img/2.png)
+![3](https://github.com/Ranginang67/Firecrack/blob/master/img/3.png)
+**admin finder:**
+![4](https://github.com/Ranginang67/Firecrack/blob/master/img/admin_pan.png)
+**bing dorking:**
+![5](https://github.com/Ranginang67/Firecrack/blob/master/img/dorking.png)
+**facebook hacking random attack:**
+![6](https://github.com/Ranginang67/Firecrack/blob/master/img/random_1.png)
+![7](https://github.com/Ranginang67/Firecrack/blob/master/img/random_2.png)
+**deface file upload method:**
 
 **Termux:**
 * `pkg install python2`
