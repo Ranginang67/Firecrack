@@ -20,7 +20,8 @@ more tools:<br>
 **facebook hacking random attack:**
 ![6](https://github.com/Ranginang67/Firecrack/blob/master/img/random_1.png)
 ![7](https://github.com/Ranginang67/Firecrack/blob/master/img/random_2.png)
-**deface file upload method:**
+**deface:**
+![8](https://github.com/Ranginang67/Firecrack/blob/master/img/deface.png)
 
 **Termux:**
 * `pkg install python2`
