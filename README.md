@@ -7,7 +7,7 @@ more tools:<br>
 `2.bruteforce facebook (one account)`<br>
 `3.admin finder`<br>
 `4.bing dorking`<br>
-`5.deface file upload`
+`5.deface (file upload)`
 
 **Screenshot:**
 ![1](https://github.com/Ranginang67/Firecrack/blob/master/img/1.png)
