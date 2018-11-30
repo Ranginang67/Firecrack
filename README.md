@@ -30,6 +30,7 @@ more tools:<br>
 **Termux:**
 * `pkg install python2`
 * `pip2 install mechanize`
+* `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/Ranginang67/Firecrack`
 * `cd Firecrack`
@@ -40,6 +41,7 @@ more tools:<br>
 * `apt-get install python`
 * `apt-get install python-pip`
 * `pip install mechanize`
+* `pip install requests
 * `apt-get install git`
 * `git clone https://github.com/Ranginang67/Firecrack`
 * `cd Firecrack`
