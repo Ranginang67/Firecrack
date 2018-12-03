@@ -53,4 +53,5 @@ more tools:<br>
 
 **Thanks!**
 
-please [Subcribe](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) and support me ^_^
+[YOUTUBE](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
+[TLEGRAM](https://t.me/Msambari)
