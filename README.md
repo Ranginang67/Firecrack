@@ -7,10 +7,11 @@ for testing websites, such as admin finder and deface with file upload method, a
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
 more tools:<br>
 <br>firecrack fiture:<br>
-`1.hack facebook random attack<br>
-2.bruteforce facebook (one account)<br>
-3.admin finder<br>
-4.bing dorking<br>
+`
+1.hack facebook random attack
+2.bruteforce facebook (one account)
+3.admin finder
+4.bing dorking
 5.deface (file upload)`
 
 **Screenshot:**
