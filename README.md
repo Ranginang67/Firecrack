@@ -50,8 +50,10 @@ more tools:<br>
 * `help`
 
 ```
-**NOTE:** before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line<br>
-**NOTE:** before use firecrack deface, put your deface script one folder with firecrack.py
+NOTE:
+
+1.before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line<br>
+2.before use firecrack deface, put your deface script one folder with firecrack.py
 ```
 
 **Thanks!**
