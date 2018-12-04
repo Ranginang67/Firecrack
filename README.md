@@ -5,7 +5,7 @@ Firecrack tools are tools for testing and testing on websites or Facebook accoun
 testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
-more tools:<br>
+more tools: :point_down:<br>
 <br>firecrack fiture:<br>
 
 ```
