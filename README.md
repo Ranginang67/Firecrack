@@ -16,13 +16,13 @@ more tools: :point_down:<br>
 5.deface (file upload)
 ```
 
-## Screenshot:
+## :camera: Screenshot:
 ![1](https://github.com/Ranginang67/Firecrack/blob/master/img/1.png)
 ![2](https://github.com/Ranginang67/Firecrack/blob/master/img/2.png)
 ![3](https://github.com/Ranginang67/Firecrack/blob/master/img/3.png)
-## admin finder:
+## :mag_right: admin finder:
 ![4](https://github.com/Ranginang67/Firecrack/blob/master/img/admin_pan.png)
-## bing dorking:
+## :page_with_curl: bing dorking:
 ![5](https://github.com/Ranginang67/Firecrack/blob/master/img/dorking.png)
 ## facebook hacking random attack:
 ![6](https://github.com/Ranginang67/Firecrack/blob/master/img/random_1.png)
