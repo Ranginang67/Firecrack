@@ -58,7 +58,7 @@ NOTE:
 2.before use firecrack deface, put your deface script one folder with firecrack.py
 ```
 
-**Thanks :simple_smile:**
+**Thanks** :simple_smile:
 
 [YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
 [Telegram](https://t.me/Msambari)
