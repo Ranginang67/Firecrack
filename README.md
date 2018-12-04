@@ -1,6 +1,6 @@
 # Firecrack
 
-Whats is firecrack tools ?
+What is firecrack tools ?
 Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
 testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
@@ -49,8 +49,10 @@ more tools:<br>
 * `python firecrack.py`
 * `help`
 
+```
 **NOTE:** before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line<br>
 **NOTE:** before use firecrack deface, put your deface script one folder with firecrack.py
+```
 
 **Thanks!**
 
