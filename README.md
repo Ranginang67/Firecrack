@@ -60,5 +60,5 @@ NOTE:
 
 **Thanks**
 
-:clapper:[YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
-:speech_balloon:[Telegram](https://t.me/Msambari)
+:clapper:   [YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
+:speech_balloon:   [Telegram](https://t.me/Msambari)
