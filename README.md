@@ -29,22 +29,20 @@ more tools:<br>
 
 **Termux:**
 * `pkg install python2`
-* `pip2 install mechanize`
-* `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/Ranginang67/Firecrack`
 * `cd Firecrack`
+* `pip2 install -r requirements.txt`
 * `python2 firecrack.py`
 * `help`
 
 **Linux:**
 * `apt-get install python`
 * `apt-get install python-pip`
-* `pip install mechanize`
-* `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/Ranginang67/Firecrack`
 * `cd Firecrack`
+* `pip install -r requirements.txt`
 * `python firecrack.py`
 * `help`
 
