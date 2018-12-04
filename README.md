@@ -24,10 +24,10 @@ more tools: :point_down:<br>
 ![4](https://github.com/Ranginang67/Firecrack/blob/master/img/admin_pan.png)
 ## :page_with_curl: bing dorking:
 ![5](https://github.com/Ranginang67/Firecrack/blob/master/img/dorking.png)
-## facebook hacking random attack:
+## :game_die: facebook hacking random attack:
 ![6](https://github.com/Ranginang67/Firecrack/blob/master/img/random_1.png)
 ![7](https://github.com/Ranginang67/Firecrack/blob/master/img/random_2.png)
-## deface:
+## :globe_with_meridians: deface:
 ![8](https://github.com/Ranginang67/Firecrack/blob/master/img/deface.png)
 
 ## install and usage:
