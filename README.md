@@ -9,7 +9,7 @@ more tools:<br>
 <br>firecrack fiture:<br>
 
 ```
-1.hack facebook random attack
+1.hack facebook (random attack)
 2.bruteforce facebook (one account)
 3.admin finder
 4.bing dorking
@@ -52,7 +52,7 @@ more tools:<br>
 ```
 NOTE:
 
-1.before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line<br>
+1.before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line
 2.before use firecrack deface, put your deface script one folder with firecrack.py
 ```
 
