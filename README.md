@@ -16,19 +16,21 @@ more tools:<br>
 5.deface (file upload)
 ```
 
-**Screenshot:**
+## Screenshot:
 ![1](https://github.com/Ranginang67/Firecrack/blob/master/img/1.png)
 ![2](https://github.com/Ranginang67/Firecrack/blob/master/img/2.png)
 ![3](https://github.com/Ranginang67/Firecrack/blob/master/img/3.png)
-**admin finder:**
+## admin finder:
 ![4](https://github.com/Ranginang67/Firecrack/blob/master/img/admin_pan.png)
-**bing dorking:**
+## bing dorking:
 ![5](https://github.com/Ranginang67/Firecrack/blob/master/img/dorking.png)
-**facebook hacking random attack:**
+## facebook hacking random attack:
 ![6](https://github.com/Ranginang67/Firecrack/blob/master/img/random_1.png)
 ![7](https://github.com/Ranginang67/Firecrack/blob/master/img/random_2.png)
-**deface:**
+## deface:
 ![8](https://github.com/Ranginang67/Firecrack/blob/master/img/deface.png)
+
+## install and usage:
 
 **Termux:**
 * `pkg install python2`
@@ -56,7 +58,7 @@ NOTE:
 2.before use firecrack deface, put your deface script one folder with firecrack.py
 ```
 
-**Thanks!**
+**Thanks**
 
-[YOUTUBE](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
-[TLEGRAM](https://t.me/Msambari)
+[YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
+[Telegram](https://t.me/Msambari)
